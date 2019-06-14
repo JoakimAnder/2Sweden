@@ -1,10 +1,13 @@
 # 2Sweden
 School Project, Agile, Scrum, XP, Web-application.
 
+Check out how it looks like at: https://lucid-shirley-465c85.netlify.com/
+
 To use:
 1) Locate root folder
 
-2) Add an .env file with api keys: named - for api
+2) Add an .env file with api keys:
+         varName - apiName
   ROME_2_RIO_KEY - Rome2Rio
   LOCAL_CURRENCY - react-local-currency
   

@@ -1,0 +1,32 @@
+
+Feedback from Kenneth Österholm
+2019-06-19
+
+
+= = HTML = =
+Good use of semantic elements
+= = CSS = =
+Good use of media queries
+Good use of CSS-grids and Flexbox
+Good selecting by css-classes.
+
+= = React = =
+Good use of functional components
+
+= = JavaScript = =
+Prefer more descreptive variable names for better readability of code.
+
+Many complexed features has been created with 
+advanced JavaScript. 
+
+= = General = =
+Nice and clean project structure
+Remember to not commit out-commented code to master
+
+Good placing credentials in .env-file 
+and ignore together with .gitignore
+
+Very good job !!
+
+Good practise to have a server handle connection to external API
+so the api-keys is not exposed from the client.

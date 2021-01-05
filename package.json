@@ -4,7 +4,7 @@
   "description": "School project",
   "main": "server.js",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "decode-google-map-polyline": "^1.0.1",
     "dotenv": "^8.0.0",
     "express": "^4.16.4",
